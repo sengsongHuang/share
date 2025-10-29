@@ -25,6 +25,7 @@
 
 ## 參考資料
 - [用 git 分享程式並協作修改說明](git_howto.md)
+- [Mac 下產生 SSH Key 並設定 GitHub 教學](git_sshkey.md)
   
 ## 1. 克隆專案
 

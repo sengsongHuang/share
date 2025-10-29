@@ -27,6 +27,7 @@
 
 ## 參考資料
 - [git 基本操作說明](git_basic.md)
+- [Mac 下產生 SSH Key 並設定 GitHub 教學](git_sshkey.md)
 
 ## 準備工作
 1. 註冊 GitHub 帳號：前往 [github.com](https://github.com) 註冊
