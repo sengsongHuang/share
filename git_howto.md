@@ -26,6 +26,7 @@
 這份教學將教你如何把自己的程式碼上傳到 GitHub 分享給朋友。即使你從未使用過 Git 或 GitHub，也能按照步驟順利完成。
 
 ## 參考資料
+- [README 教學指南集合](README.md)
 - [git 基本操作說明](git_basic.md)
 - [Mac 下產生 SSH Key 並設定 GitHub 教學](git_sshkey.md)
 

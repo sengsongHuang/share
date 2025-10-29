@@ -16,6 +16,7 @@
 最簡單的方式讓你可以用 SSH 連接 GitHub，不用每次都輸入密碼。
 
 ## 參考資料
+- [README 教學指南集合](README.md)
 - [git 基本操作說明](git_basic.md)
 - [用 git 分享程式並協作修改說明](git_howto.md)
 

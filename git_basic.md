@@ -24,6 +24,7 @@
 這是一個 Git 基本操作的快速指南，適合剛開始使用 Git 和 VS Code 的開發者。
 
 ## 參考資料
+- [README 教學指南集合](README.md)
 - [用 git 分享程式並協作修改說明](git_howto.md)
 - [Mac 下產生 SSH Key 並設定 GitHub 教學](git_sshkey.md)
   
