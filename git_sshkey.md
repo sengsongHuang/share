@@ -44,7 +44,23 @@ Enter same passphrase again: [按 Enter]
 將你的 SSH public key 複製到剪貼簿：
 
 ```bash
+# MacOS (Terminal)
 pbcopy < ~/.ssh/id_rsa.pub
+
+# Windows (cmd.exe)
+clip < ~/.ssh/id_rsa.pub
+
+# Windows (PowerShell)
+Get-Content ~/.ssh/id_rsa.pub | Set-Clipboard
+
+# Windows (Git Bash, MSYS2 or Cygwin)
+cat ~/.ssh/id_rsa.pub | clip
+
+# VS Code (terminal)
+(取決於上層 shell)
+
+# Linux
+xclip -sel clip < ~/.ssh/id_rsa.pub
 ```
 
 或者你也可以直接查看並手動複製：
